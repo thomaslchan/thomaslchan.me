@@ -33,11 +33,13 @@ h6 {
     font-size: 10pt;
     text-align: left;
     padding-left: 40px;
+    padding-bottom: 15px;
 }
 
 p {
     font-size: 12pt;
     text-align: left;
+    padding-bottom: 10px;
 }
 
 img {
@@ -60,19 +62,6 @@ li {
     font-size: 12pt;
     padding: 10px;
 }
-
-/*body {
-    background-color: white;
-}
-
-* {
-    margin: 0;
-    padding: 0;
-}
-
-canvas {
-    display: block;
-}*/
 
 .footer {
     position: fixed;
