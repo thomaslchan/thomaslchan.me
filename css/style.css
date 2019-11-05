@@ -45,9 +45,9 @@ p {
 }
 
 img {
-    align-content: left;
+    align-content: right;
     width: 50%;
-    float: left;
+    float: right;
     padding-right: 10pt;
 }
 
