@@ -27,9 +27,10 @@ p {
 
 img {
     align-content: right;
-    width: 50%;
+    width: 60%;
     float: right;
-    padding-left: 20pt;
+    border-radius: 25px;
+    padding: 12pt;
 }
 
 ul {
